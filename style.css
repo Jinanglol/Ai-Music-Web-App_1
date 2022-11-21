@@ -1,0 +1,12 @@
+.heading{
+    font-size: 23px;
+    margin: 0px;
+    width: 100%;
+    font-family: Verdana;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+    font-family: monospace;
+}
